@@ -16,10 +16,7 @@
   </p>
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Se tomo como caso de prueba un automovil Hyuundai I10 que cuenta con el conector de salida de la computadora OBD2 sucesor del OBD1-OBD el cual viene integrado en los carros recientes.
 
@@ -33,6 +30,12 @@ Se tomo como caso de prueba un automovil Hyuundai I10 que cuenta con el conector
 ## Referencias
 * [predictive-maintenance-ml-iiot](https://www.kaggle.com/billstuart/predictive-maintenance-ml-iiot)
 * [Predictive-Maintenance](https://gallery.azure.ai/Experiment/Predictive-Maintenance-Step-1-of-3-data-preparation-and-feature-engineering-2)
+
+
+<!-- ABOUT THE PROJECT -->
+## Registros leidos
+
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 
 <!-- IMAGENES -->
