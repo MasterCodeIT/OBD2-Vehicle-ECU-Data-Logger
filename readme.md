@@ -18,7 +18,13 @@
 
 
 
-Se tomo como caso de prueba un automovil Hyuundai I10 que cuenta con el conector de salida de la computadora OBD2 sucesor del OBD1-OBD el cual viene integrado en los carros recientes.
+Se tomo como caso de prueba un automovil Hyuundai I10 que cuenta con el conector de salida de la computadora OBD2 sucesor del OBD1-OBD el cual viene integrado en los carros recientes y se utlizo [Escáner Automotriz Mini Elm327 Obd2 Con Bluetooth Android](https://articulo.mercadolibre.com.mx/MLM-801989741-escaner-automotriz-mini-elm327-obd2-con-bluetooth-android-_JM?quantity=1)
+
+
+<!-- ABOUT THE PROJECT -->
+## Registros leidos
+
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 
 ### Prerequisites
@@ -32,10 +38,6 @@ Se tomo como caso de prueba un automovil Hyuundai I10 que cuenta con el conector
 * [Predictive-Maintenance](https://gallery.azure.ai/Experiment/Predictive-Maintenance-Step-1-of-3-data-preparation-and-feature-engineering-2)
 
 
-<!-- ABOUT THE PROJECT -->
-## Registros leidos
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 
 <!-- IMAGENES -->
