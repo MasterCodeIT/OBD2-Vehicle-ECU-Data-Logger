@@ -12,8 +12,8 @@
   <h3 align="center">Análisis en tiempo real a través del conector obd2 Bluetooth</h3>
 
   <p align="center">
-    # Se pretende recopilar información de los distintos sensores de un carro, con la finalidad de generar un modelo inteligente de predicción de fallos de automotores 
-</p>
+    ## Se pretende recopilar información de los distintos sensores de un carro, con la finalidad de generar un modelo inteligente de predicción de fallos de automotores 
+  </p>
 
 
 <!-- ABOUT THE PROJECT -->
