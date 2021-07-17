@@ -26,7 +26,7 @@ Todo repercute en dinero y contaminación, los servicios de mantenimiento preven
  Los planes de mantenimiento alargan la vida útil del motor, un mantenimiento preventivo a grosso modo consiste en cambio de aceite de motor, limpieza de filtros de aire o remplazo de los mismos, anticongelante, servicio del radiador, cambio de aceite hidráulico, transmisión etc. La frecuencia de ejecución se basa en kilometraje, tiempo e incluso horas trabajadas como en el caso de maquinaria pesada.
  Un servicio correctivo implica una intervención mecánica en el cual se tiene que hacer un paro de la unidad como ejemplo, cambio de anillos del pistón, cambio de bomba del agua, empaques de pistones, reparación de fugas las cuales son sumamente peligrosas, ya que representan contaminación, una gota de aceite produce daños graves al entorno.
   
-  La ciencia de datos aporta un medio para predecir fallos antes de que sucedan a traves de informacion previamente recabada en este caso prevenir correctivos algo que es deseado para cualquier intendente de flotillas 
+La ciencia de datos aporta un medio para predecir fallos antes de que sucedan a través de información previamente recabada, en este caso prevenir correctivos algo que es deseado para cualquier intendente de flotillas
   
   
   
