@@ -12,7 +12,7 @@
   <h3 align="center">Análisis en tiempo real a través del conector obd2 Bluetooth</h3>
 
   <p align="center">
-    Se pretende recopilar información de los distintos sensores con la finalidad de predicción de fallos de automotores 
+    Se pretende recopilar información de los distintos sensores de un carro, con la finalidad de generar un modelo inteligente de predicción de fallos de automotores 
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
@@ -60,7 +60,10 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Se tomo como caso de prueba un automovil Hyuundai I10 que cuenta con el conector de salida de la computadora OBD2 sucesor del OBD1-OBD el cual viene integrado en los carros recientes.
+
+
+
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
@@ -87,8 +90,6 @@ This is an example of how you may give instructions on setting up your project l
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
 * python
   ```sh
     pip install obd
