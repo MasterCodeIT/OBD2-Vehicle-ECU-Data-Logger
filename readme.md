@@ -20,7 +20,7 @@
 
 Se tomo como caso de prueba un automovil Hyuundai I10 que cuenta con el conector de salida de la computadora OBD2 sucesor del OBD1-OBD el cual viene integrado en los carros recientes y se utlizo [Escáner Automotriz Mini Elm327 Obd2 Con Bluetooth Android](https://articulo.mercadolibre.com.mx/MLM-801989741-escaner-automotriz-mini-elm327-obd2-con-bluetooth-android-_JM?quantity=1)
 
-<b/l>
+<bl/>
   <p align="center">
   Todo repercute en dinero y contaminación, los servicios de mantenimiento preventivos son siempre mejores que los correctivos.
  Los planes de mantenimiento alargan la vida útil del motor, un mantenimiento preventivo grosso modo consiste en cambio de aceite de motor, limpieza de filtros de aire o remplazo de los mismos, anticongelante, servicio del radiador, cambio de aceite hidráulico, transmisión etc. La frecuencia de ejecución se basa en kilometraje, tiempo e incluso horas trabajadas como en el caso de maquinaria pesada.
